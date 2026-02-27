@@ -31,7 +31,7 @@
 ### 方法二：使用 Git 克隆
 
 ```bash
-git clone https://github.com/yourusername/Bilibili-Bangumi-Tool.git
+git clone https://github.com/Lpiney/Bilibili-Bangumi-Tool.git
 cd Bilibili-Bangumi-Tool
 ```
 
